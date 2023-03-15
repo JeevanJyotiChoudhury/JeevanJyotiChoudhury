@@ -34,7 +34,7 @@
  
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jeevanjyoti549/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat&logo=google-chrome&logoColor=white)](https://www.linkedin.com/in/jeevanjyoti549/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat&logo=google-chrome&logoColor=white)](https://https://jeevanjyotichoudhury.github.io/)
 
 
 
